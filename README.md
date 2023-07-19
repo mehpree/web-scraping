@@ -1,6 +1,6 @@
 # web-scraping
 
-Instructions
+##Instructions
 ### Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.
 
@@ -44,5 +44,5 @@ o	About how many terrestrial (Earth) days exist in a Martian year? To answer thi
 	Visually estimate the result by plotting the daily minimum temperature.
 6.	Export the DataFrame to a CSV file.
 
-### References
+#### References
 The [Mars News website](https://static.bc-edx.com/data/web/mars_news/index.html) is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from [NASA's Mars News](https://mars.nasa.gov/) website in November 2022. Images are used according to the [JPL Image Use Policy](https://www.jpl.nasa.gov/jpl-image-use-policy), courtesy NASA/JPL-Caltech.
