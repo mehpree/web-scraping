@@ -4,7 +4,7 @@ Instructions
 ### Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.
 
-1.	Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
+1.	Use automated browsing to visit the [Mars new site https://static.bc-edx.com/data/web/mars_news/index.html] Links to an external site.. Inspect the page to identify which elements to scrape.
 2.	Create a Beautiful Soup object and use it to extract text elements from the website.
 3.	Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
 o	Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. An example is the following:
@@ -12,8 +12,11 @@ o	Store each title-and-preview pair in a Python dictionary and, give each dictio
 ![image](https://github.com/mehpree/web-scraping/assets/131678606/a2f81913-6467-4fb6-88fb-80ae55d24aab)
 
 o	Store all the dictionaries in a Python list.
+
 o	Print the list in your notebook.
+
 4.	Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the scraped data to a JSON file. (Note: there will be no extra points for completing this.)
+
 ### Part 2: Scrape and Analyze Mars Weather Data
 Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. You will work in this code as you follow the steps below to scrape and analyze Mars weather data.
 1.	Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site.. Inspect the page to identify which elements to scrape. Note that the URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
